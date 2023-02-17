@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
-* program to print a statment 
+*main - program to print a statment 
 *without using printf
-*use puts 
+*use puts
+* Return: 0 (success)
 */
 
-int main (void) 
+int main(void) 
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
