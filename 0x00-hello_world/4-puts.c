@@ -1,13 +1,10 @@
-#include <stdio.h>
+#include  <stdio.h>
 /**
-*main - program to print a statment 
-*without using printf
-*use puts
-* Return: 0 (success)
-*/
-
-int main(void) 
+ * main - program to print a statment with puts fun.
+ * Return: 0
+ */
+int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
-return(0);
+return (0);
 }
